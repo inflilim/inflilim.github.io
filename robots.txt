@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inflilim.github.io/sitemap.html.gz
+Sitemap: https://inflilim.github.io/app/sitemap.html.gz
+Sitemap: https://inflilim.github.io/assets/sitemap.html.gz
+Sitemap: https://inflilim.github.io/css/sitemap.html.gz
+Sitemap: https://inflilim.github.io/includes/sitemap.html.gz
+Sitemap: https://inflilim.github.io/item/sitemap.html.gz
+Sitemap: https://inflilim.github.io/src/sitemap.html.gz
